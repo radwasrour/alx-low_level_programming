@@ -5,9 +5,9 @@
 /**
  * main - entry point
  *
- * Description: Positive anything is better than negative nothing
+ * Description: positive or negative or equal zere number
  *
- * Return : 0 (success)
+ * Return: 0 (success)
 */
 
 int main(void)
@@ -23,5 +23,5 @@ int main(void)
 	else
 		printf("%i is negative\n", n);
 
-	return (0);
+return (0);
 }
